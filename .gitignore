@@ -1,3 +1,6 @@
+aclimdb_v1.tar.gz
+imdb_raw_data/
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
